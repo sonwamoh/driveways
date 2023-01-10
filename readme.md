@@ -1,10 +1,14 @@
 <b> Project Description </b>
 </br>
 <b> Functional Requirements <b>
-</br>
+<br>
+<br>
+<div>
 This application provides functionality for different types of users, including hosts, renters, and admins. Hosts and renters will be the primary user. The primary user will be able to create an account and be able to list a driveway rental or rent a parking space from the rentees. The behaviors will change depending on the selection of roles when the user interacts with the application. Renters will have to input their basic information, car identification, and payment methods. The application will provide them with the list of closest parking spots when they search based on their location. The hosts will have the option to list their driveways on the application. The application will ask for the space description, address to approve a listing. They also have the authority to modify and update their listings at any time. Admins have access to remove, edit and add any listing at any time. This allows admins to maintain and test the application.
 </br>
-/<br>
+</div>
+</br>
+</br>
 1>User Login / Sign-up:The system will prompt a “guest” user to either login or signup, and will prompt the user with a form to do so. 
 The first time users should sign-up inorder to access the application.A “Signed-in” user will be able to search and reserve listings, or list their own listing on the system.
 </br>
