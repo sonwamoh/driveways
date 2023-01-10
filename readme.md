@@ -1,15 +1,22 @@
 --------------------------------------------------------------------------------------------------------
 <b>Access the Project</b>
+<br>
 Team 1 - Dat, Mohit, Michael - Driveways
+<br>
 Connection: 'root'
+<br>
 Password: 'Root123!'
+<br>
 Dump: DrivewayDump.sql (includes create)
-
+<br>
 Admin Login: mike@driveways.com
+<br>
 Admin Pw: pw
-
+<br>
 User Login: gon@gmail.com
+<br>
 User Pw: pw
+<br>
 ---------------------------------------------------------------------------------------------------------
 <b> Project Description </b>
 <br>
@@ -25,6 +32,7 @@ A “Signed-in” user will be able to search and reserve listings, or list thei
 Account creation:
 There will be user accounts and admin accounts. Admin accounts will have additional features on top of the standard user account. 
 There will be a form provided to the user by the system to input user details such as name, email, payment information, and car details.
+<br>
 <br>
 Display Parking Information:
 The user will be able to search an area for available parking spots (limited to the Bay Area in this project). They will be able to see price data, size of parking spots, available dates/times, and location.
