@@ -33,27 +33,26 @@ Users can add multiple vehicles into their accounts.
 <br>
 <b>Entity Relationship Diagrams</b>
 <br>
-<img width="281" alt="ERD Diagram" src="https://user-images.githubusercontent.com/101231709/211622153-0c689235-9978-4aef-bf73-3ab9186d7d05.png">
+<img width="700" hieght="500" alt="ERD Diagram" src="https://user-images.githubusercontent.com/101231709/211622153-0c689235-9978-4aef-bf73-3ab9186d7d05.png">
 <br>
-<img width="256" alt="1" src="https://user-images.githubusercontent.com/101231709/211622163-f681ee53-5016-46f6-8af4-d0c96702389c.png">
+<img width="700" hieght="500" alt="1" src="https://user-images.githubusercontent.com/101231709/211622163-f681ee53-5016-46f6-8af4-d0c96702389c.png">
 <br>
-<img width="260" alt="2" src="https://user-images.githubusercontent.com/101231709/211622174-eb863464-2a23-4825-a484-5b4bc52a7dd2.png">
+<img width="700" hieght="500" alt="2" src="https://user-images.githubusercontent.com/101231709/211622174-eb863464-2a23-4825-a484-5b4bc52a7dd2.png">
 <br>
-<img width="259" alt="3" src="https://user-images.githubusercontent.com/101231709/211622181-bbc58ea5-e17e-4484-b<img width="258" alt="4" src="https://user-images.githubusercontent.c<img width="257" alt="5" src="https://user-images.githubusercontent.com/101231709/211622205-a81e011a-f911-40a9-9062-f689232cb82a.png">
 <br>
-<img width="258" alt="6" src="https://user-images.githubusercontent.com/101231709/211622222-2cf83e8c-e4fd-4072-bf40-daccbfeaf4ee.png">
+<img width="700" hieght="500" alt="6" src="https://user-images.githubusercontent.com/101231709/211622222-2cf83e8c-e4fd-4072-bf40-daccbfeaf4ee.png">
 <br>
-<img width="259" alt="8" src="https://user-images.githubusercontent.com/101231709/211622244-b921dc52-99b0-4c94-889c-ffe1c6707e70.png">
+<img width="700" hieght="500" alt="8" src="https://user-images.githubusercontent.com/101231709/211622244-b921dc52-99b0-4c94-889c-ffe1c6707e70.png">
 <br>
-<img width="260" alt="9" src="https://user-images.githubusercontent.com/101231709/211622251-837e9939-3504-47cf-b978-f29e5fc780d8.png">
+<img width="700" hieght="500" alt="9" src="https://user-images.githubusercontent.com/101231709/211622251-837e9939-3504-47cf-b978-f29e5fc780d8.png">
 <br>
-<img width="218" alt="10" src="https://user-images.githubusercontent.com/101231709/211622279-23b6b555-62f2-41db-ba48-54816bbb615d.png">
+<img width="700" hieght="500" alt="10" src="https://user-images.githubusercontent.com/101231709/211622279-23b6b555-62f2-41db-ba48-54816bbb615d.png">
 <br>  
-<img width="258" alt="11" src="https://user-images.githubusercontent.com/101231709/211622285-11c04771-c858-4370-9025-5381beb61908.png">
+<img width="700" hieght="500" alt="11" src="https://user-images.githubusercontent.com/101231709/211622285-11c04771-c858-4370-9025-5381beb61908.png">
 <br>
-<img width="257" alt="12" src="https://user-images.githubusercontent.com/101231709/211622289-0dff6e28-68a9-4f7e-b501-d41d9b094c2e.png">
+<img width="700" hieght="500" src="https://user-images.githubusercontent.com/101231709/211622289-0dff6e28-68a9-4f7e-b501-d41d9b094c2e.png">
 <br>
-<img width="258" alt="13" src="https://user-images.githubusercontent.com/101231709/211622308-32730231-828c-4bb5-bbcd-2adf2c09c86f.png">
+<img width="700" hieght="500" alt="13" src="https://user-images.githubusercontent.com/101231709/211622308-32730231-828c-4bb5-bbcd-2adf2c09c86f.png">
 <br>
 <br>
 <br>   
