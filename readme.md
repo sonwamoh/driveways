@@ -1,13 +1,11 @@
 <b> Project Description </b>
-</br>
-<b> Functional Requirements <b>
 <br>
+<b> Functional Requirements <b>
 <br>
 <div>
 This application provides functionality for different types of users, including hosts, renters, and admins. Hosts and renters will be the primary user. The primary user will be able to create an account and be able to list a driveway rental or rent a parking space from the rentees. The behaviors will change depending on the selection of roles when the user interacts with the application. Renters will have to input their basic information, car identification, and payment methods. The application will provide them with the list of closest parking spots when they search based on their location. The hosts will have the option to list their driveways on the application. The application will ask for the space description, address to approve a listing. They also have the authority to modify and update their listings at any time. Admins have access to remove, edit and add any listing at any time. This allows admins to maintain and test the application.
-</br>
+<br>
 </div>
-</br>
 </br>
 1>User Login / Sign-up:The system will prompt a “guest” user to either login or signup, and will prompt the user with a form to do so. 
 The first time users should sign-up inorder to access the application.A “Signed-in” user will be able to search and reserve listings, or list their own listing on the system.
@@ -38,44 +36,42 @@ Users can add multiple vehicles into their accounts.
 <b>Entity Relationship Diagrams</b>
 <br>
 <img width="700" hieght="500" alt="ERD Diagram" src="https://user-images.githubusercontent.com/101231709/211622153-0c689235-9978-4aef-bf73-3ab9186d7d05.png">
-<br>
+</br>
 <img width="700" hieght="500" alt="1" src="https://user-images.githubusercontent.com/101231709/211622163-f681ee53-5016-46f6-8af4-d0c96702389c.png">
-<br>
+</br>
 <img width="700" hieght="500" alt="2" src="https://user-images.githubusercontent.com/101231709/211622174-eb863464-2a23-4825-a484-5b4bc52a7dd2.png">
-<br>
+</br>
 <img width="700" hieght="500" alt="6" src="https://user-images.githubusercontent.com/101231709/211622222-2cf83e8c-e4fd-4072-bf40-daccbfeaf4ee.png">
-<br>
+</br>
 <img width="700" hieght="500" alt="8" src="https://user-images.githubusercontent.com/101231709/211622244-b921dc52-99b0-4c94-889c-ffe1c6707e70.png">
-<br>
+</br>
 <img width="700" hieght="500" alt="9" src="https://user-images.githubusercontent.com/101231709/211622251-837e9939-3504-47cf-b978-f29e5fc780d8.png">
-<br>
+</br>
 <img width="700" hieght="500" alt="10" src="https://user-images.githubusercontent.com/101231709/211622279-23b6b555-62f2-41db-ba48-54816bbb615d.png">
-<br>  
+</br>  
 <img width="700" hieght="500" alt="11" src="https://user-images.githubusercontent.com/101231709/211622285-11c04771-c858-4370-9025-5381beb61908.png">
-<br>
+</br>
 <img width="700" hieght="500" src="https://user-images.githubusercontent.com/101231709/211622289-0dff6e28-68a9-4f7e-b501-d41d9b094c2e.png">
-<br>
+</br>
 <img width="700" hieght="500" alt="13" src="https://user-images.githubusercontent.com/101231709/211622308-32730231-828c-4bb5-bbcd-2adf2c09c86f.png">
-<br>
-<br>
-<br>   
+</br>   
 <font size = "12">
 <b>Access the Project</b>
-<br>
+</br>
 Team 1 - Dat, Mohit, Michael - Driveways
-<br>
+</br>
 Connection: 'root'
-<br>
+</br>
 Password: 'Root123!'
-<br>
+</br>
 Dump: DrivewayDump.sql (includes create)
-<br>
+</br>
 Admin Login: mike@driveways.com
-<br>
+</br>
 Admin Pw: pw
-<br>
+</br>
 User Login: gon@gmail.com
-<br>
+</br>
 User Pw: pw
-<br>
+</br>
 </font>
