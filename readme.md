@@ -6,7 +6,7 @@ This application provides functionality for different types of users, including 
 
 1. **User Login / Sign-up:**
    - Prompt "guest" users to log in or sign up.
-   - Form for first-time users to sign up.
+   - Form for first-time users to sign up. 
    - Signed-in users can search, reserve listings, or list their own.
 
 2. **Account Creation:**
